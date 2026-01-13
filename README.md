@@ -5,9 +5,9 @@ This is the additinal information of the Software Repository Tagging: A Framewor
 
 The detailed information of 100 developers and researchers as follows：
 
-- The 100 domain-relevant participants were contacted via email, including full-time software developers (39%), academic researchers (35%), independent contributors or open-source maintainers (12%), and students(14%).
+- The 100 domain-relevant participants were contacted via email, including full-time software developers (39%), academic researchers (35%), independent contributors or open-source maintainers (12%), and students (14%).
 
-- The participants have an average of 8.4 years of professional experience, with 72% having more than three years of active GitHub experience. In addition, 82% of the participants held a bachelor’s degree or higher, among whom 41% possessed a master’s or doctoral degree.
+- The participants have an average of 5.4 years of professional experience, with 86% having more than three years of active GitHub experience. In addition, 93% of the participants held a bachelor’s degree or higher, among whom 41% possessed a master’s or doctoral degree.
 
 - The participants come from multiple software engineering domains, including web development (34%), mobile application development (21%), and DevOps/cloud computing (19%), etc.
 
