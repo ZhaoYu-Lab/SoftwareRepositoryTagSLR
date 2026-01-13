@@ -17,7 +17,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScf_aY8GYvqLvNgJmfypnucpocSpky4MaqI0iFI
 
 The surveyed results are summarized into a table listed below.：
 
-![results](https://github.com/OpenSELab/RepositoryCaegorizationSLR/blob/main/Questionnaire%20Survey/results.png?raw=true)
+![results](https://github.com/ZhaoYu-Lab/SoftwareRepositoryTagSLR/blob/main/results.png)
 
 From the surveyed results, we can observe that:
 
